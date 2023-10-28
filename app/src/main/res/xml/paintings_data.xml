@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paintings>
+    <painting>
+        <title>Monalisa</title>
+        <author>Leonardo da Vinci</author>
+        <year_created>1503</year_created>
+        <image_filename>monalisa.jpg</image_filename>
+    </painting>
+</paintings>

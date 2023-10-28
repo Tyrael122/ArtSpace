@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Monalisa",
+        "author": "Leonardo da Vinci",
+        "year_created": "1503",
+        "image_identifier": "monalisa",
+        "content_description": "The Monalisa of Leonardo da Vinci"
+    },
+    {
+        "title": "Vincent van Gogh, Self-Portrait",
+        "author": "Vincent van Gogh",
+        "year_created": "1887",
+        "image_identifier": "van_gogh",
+        "content_description": "A self portrait of Vincent van Gogh"
+    },
+    {
+        "title": "Monet's garden at Vétheuil",
+        "author": "Claude Monet",
+        "year_created": "1880",
+        "image_identifier": "garden",
+        "content_description": "An impressionist painting of a garden, by Claude Monet"
+    }
+]
